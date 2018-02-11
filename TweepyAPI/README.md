@@ -8,3 +8,5 @@ It also returns, in the form of a dictionary, the description of the images that
     // screen_name is the Twitter's account
     // videoname is the name of the output video, no need to type .mp4
     // labels is the output dictionary
+
+In this case, the pictures are ![image](https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg)
