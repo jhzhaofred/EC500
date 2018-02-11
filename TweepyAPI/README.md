@@ -9,4 +9,5 @@ It also returns, in the form of a dictionary, the description of the images that
     // videoname is the name of the output video, no need to type .mp4
     // labels is the output dictionary
 
-In this case, the pictures are ![image](https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg)
+In this case, the pictures are:
+<img src="https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg" width = "300" height = "200" alt="图片名称" align=center />
