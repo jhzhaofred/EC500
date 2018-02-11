@@ -15,5 +15,4 @@ In this case, the pictures are:
 
 The output will be:
 
-    labels = 
-    {0: ['Manchester United F.C.'], 1: ['Liverpool F.C.']}
+    labels = {0: ['Manchester United F.C.'], 1: ['Liverpool F.C.']}
