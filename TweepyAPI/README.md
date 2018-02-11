@@ -11,7 +11,7 @@ It also returns, in the form of a dictionary, the description of the images that
 
 In this case, the pictures are:
 
- <img src="https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSN1NPXcAAGYiV.jpg" width = "300" height = "200" alt="图片名称" align=center /> <img src="https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg" width = "300" height = "200" alt="图片名称" align=center />
+ <img src="https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSN1NPXcAAGYiV.jpg" width = "320" height = "180" alt="图片名称" align=center /> <img src="https://github.com/jhzhaofred/EC500/blob/master/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg" width = "270" height = "180" alt="图片名称" align=center />
 
 The output will be:
 
