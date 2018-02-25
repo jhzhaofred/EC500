@@ -49,8 +49,8 @@ Limitation:
 
 Conclusion: 
 	Fred did a good job building the functionality of the project; photos are retrieved from Twitter, then converted to a 
-	video, and analyzed by Google's Vision API. However, he could have paid more attention to handling errors of the program, 
-	and abstracting the function into different parts to give more control to the user. 
+	video, and analyzed by Google's Vision API. However, he could have paid more attention to handling errors of the 
+	program, and abstracting the function into different parts to give more control to the user. 
 
 	As a result, I could not write scripts to automatically test the program. Usernames must be manually input into the 
 	python file. I also did not build a local page to display the results due to errors  
