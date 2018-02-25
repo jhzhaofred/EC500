@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5e4d85f-2ca1-4334-8dbe-c097a23e931f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TweepyAPI/pics/DVSM-fBX0AEWGHh.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TweepyAPI/pics/DVSN1NPXcAAGYiV.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/TweepyAPI/pics/readme.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TweepyAPI/TweepyAPI.py" afterPath="$PROJECT_DIR$/TweepyAPI/TweepyAPI.py" />
-    </list>
+    <list default="true" id="a5e4d85f-2ca1-4334-8dbe-c097a23e931f" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +18,7 @@
         <entry file="file://$PROJECT_DIR$/TweepyAPI/TweepyAPI.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="736">
-              <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+              <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -192,7 +186,7 @@
     <entry file="file://$PROJECT_DIR$/TweepyAPI/TweepyAPI.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
-          <caret line="84" column="18" lean-forward="true" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+          <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
