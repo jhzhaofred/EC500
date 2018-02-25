@@ -5,12 +5,12 @@ import io, os
 import json
 import wget
 import glob
+import time
 
-consumer_key = 
-consumer_secret = 
-access_token = 
-access_secret = 
-
+consumer_key = 'trJCiIv8NHIuUCcFyXomRcLa0'
+consumer_secret = 'pCKKyezKHR8Sqosq5gjy8qprTYpudUQUwBpKh347DpmgeUrd9g'
+access_token = '1067492610-0fgbJo1DjhGvJAVgxdV93wE0XCcDipg8ciVdHQf'
+access_secret = 'Q7v0oAJJUnj4xJl7oGyxOf8kEFmpJiMh3DBB3mcXrzgOB'
 
 @classmethod
 def parse(cls, api, raw):
@@ -76,10 +76,13 @@ def get_pics(screen_name, videoname):
 
 
 def main():
+    start_time = time.time()
     # input is ID and the filename of the video
     items = {}
-    items = get_pics('ladiyanos', 'outputvideo.mp4')
+    items = get_pics('HKane', 'outputvideo.mp4')
     print(items)
+
+    print("--- %s seconds ---" % (time.time() - start_time))
 
 if __name__== "__main__":
   main()

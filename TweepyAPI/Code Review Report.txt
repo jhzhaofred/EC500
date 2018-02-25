@@ -1,0 +1,56 @@
+/* -------------------------
+ * Peer Code Review Report
+ * Author: Dong Hyun Kim 
+ * Code Author: Fred Jihao 
+ * -------------------------*/
+
+Review of Data Path:
+	Data get stored within the same directory as the python file. 
+
+Review of API Calls:
+	API calls happen collectively in one function named "get_pics".
+
+Review of Code Conventions:
+	Conventions are generally good in terms of syntax. However, for configuring the API credentials, the keys should have been
+	separated in another .config or .json file. The keys are directly inserted from the python file, which is discouraged. 
+
+Review of Program Readability:
+Code is readable and understandable without much effort. However, I wish the code was more commented. 
+
+
+Review of Error Handling: 
+Case 1. User Without A Photo 
+	The program does not handle this errors and throws an error where the images are passed to FFMPEG call, because there were no
+	images retrieved from Twitter. Program terminates with the error " *.jpg: No such file or directory".
+Case 2. Non-existent User
+	The program does not handle this error and terminates with the Tweepy API error message " tweepy.error.TweepError: 
+	[{'code': 34, 'message': 'Sorry, that page does not exist.'}]" 
+
+Performance:
+	As long as a valid user is manually input to the main function, the photos are correctly retrieved and collectively 
+	converted into a .mp4 file. However, the Vision API analyzes each photo, not the output video, making the process not ideal 
+	for accounts that have many photos. For instance, I tried "HKane" who is a famous soccer player with many photos on Twitter,
+	and the entire process of retrieving, converting, and analyzing took more than 2 minutes. (132 seconds measured with time
+	function)
+
+Main call:
+	The main call is synchronous. After creating an empty array, the "get_pics" function takes the Twitter account name, and the
+	desired title of the output video as parameters. Within the "get_pics" function, the models for Tweepy is created then
+	authenticated; upto 200 photos are then retrieved to be converted into a single .mp4 file. 
+
+Limitation:
+	The main limitation is that the user of this python file must manually input the user name into the python file, which is not
+	ideal. Allowing users to pass arguments from the command line tool would have been ideal. Also, the parameters of the 
+	function could be expanded to specify the output folder directory, the number of tweets to be retrieved, and also which photo
+	to analyze. The program outputs a long array of description of photos,  which makes identifying photos with their labels 
+	difficult.
+
+
+Conclusion: 
+	Fred did a good job building the functionality of the project; photos are retrieved from Twitter, then converted to a video, and 
+	analyzed by Google's Vision API. However, he could have paid more attention to handling errors of the program, and abstracting 
+	the function into different parts to give more control to the user. 
+
+	As a result, I could not write scripts to automatically test the program. Usernames must be manually input into the python file. 
+	I also did not build a local page to display the results due to errors  
+
