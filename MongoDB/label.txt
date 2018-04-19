@@ -1,0 +1,99 @@
+Lables for 0.jpg :
+public space
+city
+pedestrian
+tourism
+building
+street
+arch
+recreation
+vehicle
+tree
+Lables for 1.jpg :
+diplomat
+ceremony
+suit
+event
+interaction
+official
+conversation
+formal wear
+communication
+public relations
+Lables for 2.jpg :
+flag
+event
+profession
+flag of the united states
+Lables for 3.jpg :
+function hall
+diplomat
+public relations
+government
+Lables for 4.jpg :
+meal
+staff
+lunch
+diplomat
+banquet
+cabinet
+city council
+profession
+dinner
+government
+Lables for 5.jpg :
+official
+senior citizen
+event
+business executive
+ceremony
+speech
+profession
+diplomat
+professional
+communication
+Lables for 6.jpg :
+tradition
+event
+christmas decoration
+christmas
+ceremony
+decor
+holiday
+Lables for 7.jpg :
+text
+font
+black and white
+line
+handwriting
+number
+area
+angle
+document
+point
+Lables for 8.jpg :
+arch
+building
+tourism
+place of worship
+chapel
+Lables for 9.jpg :
+vehicle
+luxury vehicle
+transport
+mode of transport
+aircraft
+aviation
+airplane
+airliner
+car
+air travel
+Lables for 10.jpg :
+meal
+lunch
+banquet
+diplomat
+staff
+dinner
+profession
+brunch
