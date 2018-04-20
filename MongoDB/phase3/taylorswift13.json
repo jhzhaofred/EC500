@@ -1,0 +1,518 @@
+{
+    "Account": "@taylorswift13",
+    "Pictures": [
+        {
+            "Description 0": [
+                "hair",
+                "human hair color",
+                "head",
+                "hairstyle",
+                "forehead",
+                "cheek",
+                "chin",
+                "girl",
+                "black hair",
+                "blond"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "hair",
+                "red",
+                "pink",
+                "photograph",
+                "facial expression",
+                "woman",
+                "purple",
+                "human hair color",
+                "eyebrow",
+                "nose"
+            ],
+            "Picture 1": "1.jpg"
+        },
+        {
+            "Description 2": [
+                "black",
+                "text",
+                "font",
+                "black and white",
+                "logo",
+                "product",
+                "computer wallpaper",
+                "monochrome",
+                "brand",
+                "darkness"
+            ],
+            "Picture 2": "2.jpg"
+        },
+        {
+            "Description 3": [
+                "purple",
+                "selfie",
+                "chin",
+                "cool",
+                "forehead",
+                "arm",
+                "muscle",
+                "fun",
+                "smile",
+                "facial hair"
+            ],
+            "Picture 3": "3.jpg"
+        },
+        {
+            "Description 4": [
+                "reading",
+                "product",
+                "electronic device"
+            ],
+            "Picture 4": "4.jpg"
+        },
+        {
+            "Description 5": [
+                "girl"
+            ],
+            "Picture 5": "5.jpg"
+        },
+        {
+            "Description 6": [
+                "product",
+                "product",
+                "muscle",
+                "supermarket",
+                "retail",
+                "t shirt"
+            ],
+            "Picture 6": "6.jpg"
+        },
+        {
+            "Description 7": [
+                "product",
+                "socialite",
+                "girl",
+                "brown hair",
+                "hair coloring",
+                "long hair"
+            ],
+            "Picture 7": "7.jpg"
+        },
+        {
+            "Description 8": [
+                "blue",
+                "girl",
+                "product",
+                "smile",
+                "cool",
+                "happiness",
+                "fun"
+            ],
+            "Picture 8": "8.jpg"
+        },
+        {
+            "Description 9": [
+                "product",
+                "black hair",
+                "girl",
+                "cool",
+                "advertising",
+                "brown hair",
+                "fun"
+            ],
+            "Picture 9": "9.jpg"
+        },
+        {
+            "Description 10": [
+                "eyebrow",
+                "nose",
+                "forehead",
+                "cheek",
+                "selfie",
+                "girl",
+                "hair coloring",
+                "brown hair",
+                "eyelash",
+                "product"
+            ],
+            "Picture 10": "10.jpg"
+        },
+        {
+            "Description 11": [
+                "facial expression",
+                "girl",
+                "black hair",
+                "smile",
+                "product",
+                "long hair",
+                "brown hair",
+                "hair coloring",
+                "selfie"
+            ],
+            "Picture 11": "11.jpg"
+        },
+        {
+            "Description 12": [
+                "human hair color",
+                "blond",
+                "girl",
+                "product",
+                "hair coloring"
+            ],
+            "Picture 12": "12.jpg"
+        },
+        {
+            "Description 13": [
+                "product",
+                "square"
+            ],
+            "Picture 13": "13.jpg"
+        },
+        {
+            "Description 14": [
+                "eyebrow",
+                "beauty",
+                "nose",
+                "lip",
+                "hairstyle",
+                "chin",
+                "cheek",
+                "product",
+                "black hair",
+                "forehead"
+            ],
+            "Picture 14": "14.jpg"
+        },
+        {
+            "Description 15": [
+                "eyebrow",
+                "beauty",
+                "human hair color",
+                "album cover",
+                "lip",
+                "cheek",
+                "black hair",
+                "eyelash",
+                "girl",
+                "brown hair"
+            ],
+            "Picture 15": "15.jpg"
+        },
+        {
+            "Description 16": [
+                "forehead",
+                "product"
+            ],
+            "Picture 16": "16.jpg"
+        },
+        {
+            "Description 17": [
+                "facial expression",
+                "girl",
+                "smile",
+                "friendship",
+                "product",
+                "hair coloring",
+                "photomontage",
+                "brown hair"
+            ],
+            "Picture 17": "17.jpg"
+        },
+        {
+            "Description 18": [
+                "footwear",
+                "leg",
+                "shoulder",
+                "joint",
+                "girl",
+                "human body",
+                "arm",
+                "thigh",
+                "black hair",
+                "socialite"
+            ],
+            "Picture 18": "18.jpg"
+        },
+        {
+            "Description 19": [
+                "black",
+                "black and white",
+                "font",
+                "phenomenon",
+                "atmosphere",
+                "computer wallpaper",
+                "darkness",
+                "monochrome",
+                "logo",
+                "graphics"
+            ],
+            "Picture 19": "19.jpg"
+        },
+        {
+            "Description 20": [
+                "selfie"
+            ],
+            "Picture 20": "20.jpg"
+        },
+        {
+            "Description 21": [
+                "purple",
+                "beauty",
+                "phenomenon",
+                "darkness",
+                "electric blue",
+                "music artist",
+                "computer wallpaper",
+                "midnight",
+                "space",
+                "pop music"
+            ],
+            "Picture 21": "21.jpg"
+        },
+        {
+            "Description 22": [
+                "fashion model",
+                "shoulder",
+                "outerwear",
+                "long hair",
+                "hair coloring"
+            ],
+            "Picture 22": "22.jpg"
+        },
+        {
+            "Description 23": [
+                "beauty",
+                "smile",
+                "girl",
+                "photography",
+                "socialite",
+                "brown hair",
+                "long hair",
+                "product",
+                "photo shoot"
+            ],
+            "Picture 23": "23.jpg"
+        },
+        {
+            "Description 24": [
+                "text",
+                "vampire",
+                "film",
+                "album cover",
+                "font",
+                "darkness",
+                "poster",
+                "goth subculture",
+                "computer wallpaper",
+                "midnight"
+            ],
+            "Picture 24": "24.jpg"
+        },
+        {
+            "Description 25": [
+                "glasses",
+                "vision care",
+                "facial hair",
+                "eyewear",
+                "product",
+                "cool",
+                "selfie",
+                "font"
+            ],
+            "Picture 25": "25.jpg"
+        },
+        {
+            "Description 26": [
+                "hair",
+                "human hair color",
+                "girl",
+                "beauty",
+                "hairstyle",
+                "photography",
+                "phenomenon",
+                "tree",
+                "long hair",
+                "portrait"
+            ],
+            "Picture 26": "26.jpg"
+        },
+        {
+            "Description 27": [
+                "clothing",
+                "day",
+                "fashion accessory",
+                "shoulder",
+                "snapshot",
+                "standing",
+                "outerwear",
+                "textile",
+                "house",
+                "tights"
+            ],
+            "Picture 27": "27.jpg"
+        },
+        {
+            "Description 28": [
+                "eyewear",
+                "glasses",
+                "vision care",
+                "forehead",
+                "facial hair",
+                "font",
+                "product"
+            ],
+            "Picture 28": "28.jpg"
+        },
+        {
+            "Description 29": [
+                "eyewear",
+                "photograph",
+                "black and white",
+                "glasses",
+                "vision care",
+                "photography",
+                "monochrome photography",
+                "smile",
+                "gentleman",
+                "monochrome"
+            ],
+            "Picture 29": "29.jpg"
+        },
+        {
+            "Description 30": [
+                "product",
+                "bookselling"
+            ],
+            "Picture 30": "30.jpg"
+        },
+        {
+            "Description 31": [
+                "album cover",
+                "font",
+                "brand",
+                "product"
+            ],
+            "Picture 31": "31.jpg"
+        },
+        {
+            "Description 32": [
+                "fun",
+                "product",
+                "selfie",
+                "smile"
+            ],
+            "Picture 32": "32.jpg"
+        },
+        {
+            "Description 33": [
+                "forehead",
+                "product",
+                "cool",
+                "selfie",
+                "advertising"
+            ],
+            "Picture 33": "33.jpg"
+        },
+        {
+            "Description 34": [
+                "girl",
+                "product",
+                "fun"
+            ],
+            "Picture 34": "34.jpg"
+        },
+        {
+            "Description 35": [
+                "t shirt",
+                "facial hair",
+                "product",
+                "fun"
+            ],
+            "Picture 35": "35.jpg"
+        },
+        {
+            "Description 36": [
+                "facial expression",
+                "pink",
+                "product",
+                "girl",
+                "fun",
+                "photography",
+                "snapshot",
+                "smile",
+                "fashion",
+                "cool"
+            ],
+            "Picture 36": "36.jpg"
+        },
+        {
+            "Description 37": [
+                "beauty",
+                "purple",
+                "font",
+                "girl",
+                "product",
+                "model",
+                "album cover"
+            ],
+            "Picture 37": "37.jpg"
+        },
+        {
+            "Description 38": [
+                "wood",
+                "brown",
+                "flooring",
+                "wood stain",
+                "hardwood",
+                "floor",
+                "wood flooring",
+                "laminate flooring",
+                "texture"
+            ],
+            "Picture 38": "38.jpg"
+        },
+        {
+            "Description 39": [
+                "product",
+                "girl"
+            ],
+            "Picture 39": "39.jpg"
+        },
+        {
+            "Description 40": [
+                "supermarket",
+                "product",
+                "retail",
+                "customer",
+                "service",
+                "girl",
+                "shopkeeper"
+            ],
+            "Picture 40": "40.jpg"
+        },
+        {
+            "Description 41": [
+                "hair",
+                "human hair color",
+                "blond",
+                "eyebrow",
+                "hairstyle",
+                "chin",
+                "cheek",
+                "bangs",
+                "girl",
+                "forehead"
+            ],
+            "Picture 41": "41.jpg"
+        },
+        {
+            "Description 42": [
+                "product",
+                "blond",
+                "girl",
+                "reading",
+                "hair coloring"
+            ],
+            "Picture 42": "42.jpg"
+        }
+    ]
+}

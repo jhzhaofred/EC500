@@ -1,0 +1,35 @@
+{
+    "Account": "@katyperry",
+    "Pictures": [
+        {
+            "Description 0": [
+                "hair",
+                "fashion model",
+                "eyebrow",
+                "human hair color",
+                "beauty",
+                "hairstyle",
+                "head",
+                "black hair",
+                "fashion",
+                "forehead"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "performance",
+                "music artist",
+                "stage",
+                "singer",
+                "musician",
+                "audio",
+                "performance art",
+                "singing",
+                "singer songwriter",
+                "musical instrument"
+            ],
+            "Picture 1": "1.jpg"
+        }
+    ]
+}

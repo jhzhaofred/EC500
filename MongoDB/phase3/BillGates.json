@@ -1,0 +1,75 @@
+{
+    "Account": "@BillGates",
+    "Pictures": [
+        {
+            "Description 0": [
+                "facial expression",
+                "glasses",
+                "vision care",
+                "smile",
+                "human behavior",
+                "shoulder",
+                "eyewear",
+                "forehead",
+                "professional",
+                "product"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "social group",
+                "senior citizen",
+                "team",
+                "event",
+                "family",
+                "fun"
+            ],
+            "Picture 1": "1.jpg"
+        },
+        {
+            "Description 2": [
+                "text",
+                "font",
+                "line",
+                "diagram",
+                "area",
+                "brand",
+                "angle",
+                "graphics",
+                "logo",
+                "graphic design"
+            ],
+            "Picture 2": "2.jpg"
+        },
+        {
+            "Description 3": [
+                "face",
+                "hair",
+                "facial expression",
+                "facial hair",
+                "nose",
+                "cartoon",
+                "text",
+                "head",
+                "hairstyle",
+                "forehead"
+            ],
+            "Picture 3": "3.jpg"
+        },
+        {
+            "Description 4": [
+                "people",
+                "child",
+                "community",
+                "smile",
+                "girl",
+                "tree",
+                "fun",
+                "recreation",
+                "vacation"
+            ],
+            "Picture 4": "4.jpg"
+        }
+    ]
+}

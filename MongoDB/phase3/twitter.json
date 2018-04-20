@@ -1,0 +1,203 @@
+{
+    "Account": "@twitter",
+    "Pictures": [
+        {
+            "Description 0": [
+                "audience",
+                "footwear",
+                "crowd",
+                "sitting",
+                "performance",
+                "product",
+                "human",
+                "shoe",
+                "recreation",
+                "competition event"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "cuisine",
+                "egg",
+                "dish",
+                "dim sum",
+                "food",
+                "egg",
+                "asian food",
+                "chinese food",
+                "xiaolongbao",
+                "baozi"
+            ],
+            "Picture 1": "1.jpg"
+        },
+        {
+            "Description 2": [
+                "human hair color",
+                "girl",
+                "selfie",
+                "black hair",
+                "mouth",
+                "muscle",
+                "product"
+            ],
+            "Picture 2": "2.jpg"
+        },
+        {
+            "Description 3": [
+                "guitarist",
+                "performance",
+                "stage",
+                "entertainment",
+                "concert",
+                "musician",
+                "singing",
+                "music artist",
+                "rock concert",
+                "performing arts"
+            ],
+            "Picture 3": "3.jpg"
+        },
+        {
+            "Description 4": [
+                "hair",
+                "facial hair",
+                "man",
+                "person",
+                "darkness",
+                "beard",
+                "selfie",
+                "chin",
+                "night",
+                "phenomenon"
+            ],
+            "Picture 4": "4.jpg"
+        },
+        {
+            "Description 5": [
+                "outerwear",
+                "product",
+                "recreation",
+                "jeans",
+                "socialite",
+                "car",
+                "uniform",
+                "competition event",
+                "t shirt",
+                "girl"
+            ],
+            "Picture 5": "5.jpg"
+        },
+        {
+            "Description 6": [
+                "footwear",
+                "red",
+                "white",
+                "shoe",
+                "black",
+                "sneakers",
+                "product",
+                "product",
+                "walking shoe",
+                "athletic shoe"
+            ],
+            "Picture 6": "6.jpg"
+        },
+        {
+            "Description 7": [
+                "sport venue",
+                "team",
+                "player",
+                "football player",
+                "team sport",
+                "sports",
+                "soccer player",
+                "stadium",
+                "tournament",
+                "competition event"
+            ],
+            "Picture 7": "7.jpg"
+        },
+        {
+            "Description 8": [
+                "lighting",
+                "darkness",
+                "ceiling",
+                "window"
+            ],
+            "Picture 8": "8.jpg"
+        },
+        {
+            "Description 9": [
+                "performance",
+                "entertainment",
+                "stage",
+                "concert",
+                "performing arts",
+                "event",
+                "music",
+                "crowd",
+                "performance art",
+                "public event"
+            ],
+            "Picture 9": "9.jpg"
+        },
+        {
+            "Description 10": [
+                "standing",
+                "floor",
+                "flooring",
+                "human behavior"
+            ],
+            "Picture 10": "10.jpg"
+        },
+        {
+            "Description 11": [
+                "shoulder",
+                "leg",
+                "arm",
+                "sitting",
+                "product",
+                "joint"
+            ],
+            "Picture 11": "11.jpg"
+        },
+        {
+            "Description 12": [
+                "art",
+                "drawing",
+                "standing",
+                "arm",
+                "joint",
+                "sketch",
+                "illustration",
+                "figure drawing",
+                "sports equipment",
+                "cold weapon"
+            ],
+            "Picture 12": "12.jpg"
+        },
+        {
+            "Description 13": [
+                "concert",
+                "entertainment",
+                "performance",
+                "stage",
+                "rock concert",
+                "purple",
+                "event",
+                "crowd",
+                "performing arts",
+                "singing"
+            ],
+            "Picture 13": "13.jpg"
+        },
+        {
+            "Description 14": [
+                "number",
+                "door"
+            ],
+            "Picture 14": "14.jpg"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "Account": "@justinbieber",
+    "Pictures": [
+        {
+            "Description 0": [
+                "white",
+                "clothing",
+                "red",
+                "sleeve",
+                "product",
+                "t shirt",
+                "sportswear",
+                "jersey",
+                "product",
+                "sports uniform"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "blue",
+                "text",
+                "font",
+                "line",
+                "product",
+                "design",
+                "area",
+                "pattern",
+                "brand",
+                "point"
+            ],
+            "Picture 1": "1.jpg"
+        },
+        {
+            "Description 2": [
+                "photograph",
+                "photography",
+                "snapshot",
+                "girl",
+                "phenomenon",
+                "alley",
+                "street",
+                "photo shoot",
+                "portrait photography",
+                "fun"
+            ],
+            "Picture 2": "2.jpg"
+        },
+        {
+            "Description 3": [
+                "text",
+                "font",
+                "poster",
+                "advertising",
+                "paper"
+            ],
+            "Picture 3": "3.jpg"
+        },
+        {
+            "Description 4": [
+                "text",
+                "font",
+                "brand",
+                "advertising"
+            ],
+            "Picture 4": "4.jpg"
+        },
+        {
+            "Description 5": [
+                "shoulder",
+                "arm",
+                "tattoo",
+                "temporary tattoo",
+                "neck",
+                "joint",
+                "muscle",
+                "facial hair",
+                "pattern",
+                "chest"
+            ],
+            "Picture 5": "5.jpg"
+        },
+        {
+            "Description 6": [
+                "text",
+                "font",
+                "line",
+                "product",
+                "paper",
+                "area",
+                "black and white",
+                "angle",
+                "product design",
+                "pattern"
+            ],
+            "Picture 6": "6.jpg"
+        },
+        {
+            "Description 7": [
+                "hood",
+                "blue",
+                "hoodie",
+                "purple",
+                "violet",
+                "product",
+                "sleeve",
+                "cobalt blue",
+                "outerwear",
+                "electric blue"
+            ],
+            "Picture 7": "7.jpg"
+        },
+        {
+            "Description 8": [
+                "text",
+                "blue",
+                "font",
+                "product",
+                "product",
+                "line",
+                "area",
+                "online advertising",
+                "logo",
+                "brand"
+            ],
+            "Picture 8": "8.jpg"
+        }
+    ]
+}

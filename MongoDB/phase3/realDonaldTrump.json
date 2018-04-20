@@ -1,0 +1,148 @@
+{
+    "Account": "@realDonaldTrump",
+    "Pictures": [
+        {
+            "Description 0": [
+                "public space",
+                "city",
+                "pedestrian",
+                "tourism",
+                "building",
+                "street",
+                "arch",
+                "recreation",
+                "vehicle",
+                "tree"
+            ],
+            "Picture 0": "0.jpg"
+        },
+        {
+            "Description 1": [
+                "diplomat",
+                "ceremony",
+                "suit",
+                "event",
+                "interaction",
+                "official",
+                "conversation",
+                "formal wear",
+                "communication",
+                "public relations"
+            ],
+            "Picture 1": "1.jpg"
+        },
+        {
+            "Description 2": [
+                "flag",
+                "event",
+                "profession",
+                "flag of the united states"
+            ],
+            "Picture 2": "2.jpg"
+        },
+        {
+            "Description 3": [
+                "function hall",
+                "diplomat",
+                "public relations",
+                "government"
+            ],
+            "Picture 3": "3.jpg"
+        },
+        {
+            "Description 4": [
+                "meal",
+                "staff",
+                "lunch",
+                "diplomat",
+                "banquet",
+                "cabinet",
+                "city council",
+                "profession",
+                "dinner",
+                "government"
+            ],
+            "Picture 4": "4.jpg"
+        },
+        {
+            "Description 5": [
+                "official",
+                "senior citizen",
+                "event",
+                "business executive",
+                "ceremony",
+                "speech",
+                "profession",
+                "diplomat",
+                "professional",
+                "communication"
+            ],
+            "Picture 5": "5.jpg"
+        },
+        {
+            "Description 6": [
+                "tradition",
+                "event",
+                "christmas decoration",
+                "christmas",
+                "ceremony",
+                "decor",
+                "holiday"
+            ],
+            "Picture 6": "6.jpg"
+        },
+        {
+            "Description 7": [
+                "text",
+                "font",
+                "black and white",
+                "line",
+                "handwriting",
+                "number",
+                "area",
+                "angle",
+                "document",
+                "point"
+            ],
+            "Picture 7": "7.jpg"
+        },
+        {
+            "Description 8": [
+                "arch",
+                "building",
+                "tourism",
+                "place of worship",
+                "chapel"
+            ],
+            "Picture 8": "8.jpg"
+        },
+        {
+            "Description 9": [
+                "vehicle",
+                "luxury vehicle",
+                "transport",
+                "mode of transport",
+                "aircraft",
+                "aviation",
+                "airplane",
+                "airliner",
+                "car",
+                "air travel"
+            ],
+            "Picture 9": "9.jpg"
+        },
+        {
+            "Description 10": [
+                "meal",
+                "lunch",
+                "banquet",
+                "diplomat",
+                "staff",
+                "dinner",
+                "profession",
+                "brunch"
+            ],
+            "Picture 10": "10.jpg"
+        }
+    ]
+}
